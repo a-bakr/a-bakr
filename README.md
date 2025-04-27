@@ -1,8 +1,9 @@
-# Hi, I'm Abdallah Bakr
+<h1 align="center">Hi 👋, I'm Abdallah Bakr</h1>
+<h3 align="center">Are AGI here? Hi I am Abdallah, I started my journey by making buildings and cities exist. Now I am doing my best to make AGI through the AI ecosystem from NLP, CV, to DRL.</h3>
 
-### A Machine Learning Engineer & AEC Automation Innovator  
-- I’m currently developing intelligent systems at **Bakrai**, focusing on ML, Deep Learning, and Reinforcement Learning for the AEC industry.  
-- How to reach me:  abdallahbakrai@gmail.com
+
+- 🌱 I’m currently learning **Machine Learning, Deep Learning & Reinforcement Learning** for the AEC industry.
+- 📫 How to reach me **abdallahbakrai@gmail.com**
 
 ### Connect with me  
 [![GitHub followers](https://img.shields.io/github/followers/a-bakr?label=Follow&style=for-the-badge)](https://github.com/a-bakr)  
