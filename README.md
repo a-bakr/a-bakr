@@ -2,8 +2,7 @@
 
 ### A Machine Learning Engineer & AEC Automation Innovator  
 - I’m currently developing intelligent systems at **Bakrai**, focusing on ML, Deep Learning, and Reinforcement Learning for the AEC industry.  
-- How to reach me:  
-  [![Gmail](https://img.shields.io/badge/-abdallahbakrai@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallahbakrai@gmail.com)  
+- How to reach me:  abdallahbakrai@gmail.com
 
 ### Connect with me  
 [![GitHub followers](https://img.shields.io/github/followers/a-bakr?label=Follow&style=for-the-badge)](https://github.com/a-bakr)  
